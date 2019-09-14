@@ -1,19 +1,3 @@
-/*
-  ------------------------
-  Check out my video of how i created this piece of...
-  https://www.twitch.tv/videos/115237628 [3hour]
-  https://www.twitch.tv/videos/115351889 [6hour]
-  ------------------------
-  No IMG needed, just pure CSS!
-  ------------------------
-  Inspiration: http://bit.ly/8bitgaming
-  ------------------------
-  Design created by @dominikrezek
-  ------------------------
-  Game created by @remvst
-  http://js13kgames.com/entries/taxi-drift
-  ------------------------
-*/
 // JS
 $(document).ready(function () {
     // TIME
